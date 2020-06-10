@@ -1,2 +1,2 @@
 # Coffee-Chain-Analysis
-The goal of the project is to conduct ad hoc analysis using to extract business insights for regarding the products and inventory management to aid in business decision making.
+The goal of the project is to conduct ad hoc analysis to extract business insights regarding products and inventory to aid in business decision making.
