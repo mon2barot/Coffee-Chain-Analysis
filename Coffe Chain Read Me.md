@@ -25,5 +25,5 @@ Final Dashboard:
 <h1> Code and Resources Used </h1> 
 <b>Database Software:</b> Microsoft Access<br>
 <b>Business Intelligence Tool:</b> Tableau <br>
-<b>Dataset:</b> <a href = "https://community.tableau.com/thread/120152" >Coffee Chain Sample</a>
-<b>Project Walkthrough:</b> ![alt text](https://bit.ly/30tPWWO "Data Visualization in Tableau: Coffee Chain Analysis")
+<b>Dataset:</b> <a href = "https://community.tableau.com/thread/120152" >Coffee Chain Sample</a><br>
+<b>Project Walkthrough:</b> <a href = "https://bit.ly/30tPWWO" >Data Visualization in Tableau: Coffee Chain Analysis</a>
