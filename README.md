@@ -7,11 +7,13 @@
 ..* Finally, with the help of Tableau's aggregate and filter functions numerous visualizations were created.
 ..* The analysis started by looking into product performances across states and moved onto rates as well as invenotry.
 
-Insights Discovered: 
+Following are a couple of insights Discovered: 
 
 1. On the one hand Califronia, Iowa, and Colorado are the most profitable states and on the other hand New Mexico, New Hampshire, and Missouri are the least profitable states. 
 ![alt text](https://github.com/mon2barot/Universe/blob/master/images/cc1.png "Profit Per State")
 
+2. In the state of New York, for the product espresso it is seen that the marketing efforts are low but the inventory levels are significantly higher. Therefore, disproportionate marketing and inventory has effects sales.
+![alt text](https://github.com/mon2barot/Universe/blob/master/images/CC2.png "Inventory")
 
 <h1> Code and Resources Used </h1> 
 <b>Database Software:</b> Microsoft Access<br>
