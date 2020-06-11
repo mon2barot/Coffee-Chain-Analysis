@@ -19,6 +19,9 @@ Following are a couple of insights Discovered:
 
 From the information obtained the coffe chain can focus on its marketing efforts based on that states that are most profitable. Furthermore, it should also look into backing up its inventory levels by appropriate distrubition of the several products so that the marketing efforts can increase th businness. 
 
+Final Dashboard:
+![alt text](https://github.com/mon2barot/Universe/blob/master/images/CC3.png "Dashboard")
+
 <h1> Code and Resources Used </h1> 
 <b>Database Software:</b> Microsoft Access<br>
 <b>Business Intelligence Tool:</b> Tableau <br>
