@@ -15,6 +15,10 @@ Following are a couple of insights Discovered:
 2. In the state of New York, for the product espresso it is seen that the marketing efforts are low but the inventory levels are significantly higher. Therefore, disproportionate marketing and inventory has effects sales.
 ![alt text](https://github.com/mon2barot/Universe/blob/master/images/CC2.png "Inventory")
 
+<h1> Conclusion </h1>
+
+From the information obtained the coffe chain can focus on its marketing efforts based on that states that are most profitable. Furthermore, it should also look into backing up its inventory levels by appropriate distrubition of the several products so that the marketing efforts can increase th businness. 
+
 <h1> Code and Resources Used </h1> 
 <b>Database Software:</b> Microsoft Access<br>
 <b>Business Intelligence Tool:</b> Tableau <br>
